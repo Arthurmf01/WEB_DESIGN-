@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(241, 240, 240); /* Le fond de la page sera noir */  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+  .blue-square {
+    background-color: #0074D9;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+  }
+  
+  .yellow-square {
+    background-color: #FFDC00;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+  }
+  
+  .green-square {
+    background-color: #3D9970;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+  }
